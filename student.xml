@@ -1,0 +1,15 @@
+<students>
+    <student id="1">
+        <name>Tareq</name>
+        <id>18-37816-2</id>
+        <dept>CSE</dept>
+        <email>tarequl241@gmail.com</email>
+    </student>
+    <student id="2">
+        <name>Mahi</name>
+        <id>18-37796-2</id>
+        <dept>SE</dept>
+        <email></email>
+
+    </student>
+</students>
