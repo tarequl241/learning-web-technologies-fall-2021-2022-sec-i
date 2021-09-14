@@ -1,4 +1,4 @@
-<adresses>
+<employees>
     <employee Id="1">
         <name>John Doe</name>
         <address>
@@ -6,7 +6,7 @@
             <house>38</house>
             <road>3</road>
             <area>Banani</area>
-            <City>Dhaka</City>
+            <city>Dhaka</city>
         </address>
         <department>Sales</department>
         <salary>$20000</salary>
@@ -18,7 +18,7 @@
             <house>20</house>
             <road>18</road>
             <area>Mirpur</area>
-            <City>Dhaka</City>
+            <city>Dhaka</city>
         </address>
         <department>Accounts</department>
         <salary>$12000</salary>
@@ -30,10 +30,10 @@
             <house>38</house>
             <road>3</road>
             <area>Motijheel</area>
-            <City></City>
+            <city></city>
         </address>
         <department>Human Resource</department>
         <salary>$30000</salary>
     </employee>
 
-</adresses>
+</employees>
