@@ -3,13 +3,15 @@
 	if(isset($_COOKIE['flag'])){
 ?>
 
+
+
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin Page</title>
+	<title>This is Admin Page</title>
 </head>
 <body>
-	<h1>Welcome to Bob!</h1>
+	<h1>Welcome Bob!</h1>
 	<table style="width:100%">
 	<a href="profile.html">Profile </a> | 
 	<a href="changepass.html">Change Password </a> |
@@ -17,6 +19,9 @@
 	</table>
 </body>
 </html>
+
+
+
 
 <?php
 	}else{
