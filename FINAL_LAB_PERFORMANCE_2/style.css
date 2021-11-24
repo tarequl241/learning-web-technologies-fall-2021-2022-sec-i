@@ -1,4 +1,4 @@
-body, html {
+body,html {
     background: #eee6f5;
     margin: 0;
     padding: 0;
@@ -14,7 +14,6 @@ body, html {
     border-radius: 14px;
     padding-bottom: 20px;
     width: 320px;
-    
    }
    .display {
     width: 100%;
