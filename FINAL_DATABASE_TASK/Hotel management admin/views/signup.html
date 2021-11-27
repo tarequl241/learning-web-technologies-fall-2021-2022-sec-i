@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title>Signup</title>
+</head>
+<body>
+	<form method="post" action="../controller/signupcheck.php">
+		<fieldset>
+			<table  width="100%" height="100%" border="0" cellpadding="5"
+			bgcolor="Orange">
+			<tr>
+				<td align="center">
+					<legend><h1><font face="American Captain" size="10" color="Purple">Sign Up</font></h1></legend>
+			<table width="400" bordercolor="Orange" border="4" cellspacing="4" cellpadding="6">
+					<td>Username:</td>
+					<td><input type="text" name="username" value=""></td>
+				</tr>
+				<tr>
+					<td>Password:</td>
+					<td><input type="password" name="password" value=""></td>
+				</tr>
+				<tr>
+					<td>Email:</td>
+					<td><input type="email" name="email" value=""></td>
+				</tr>
+				<tr>
+					<td>Employment Status</td>
+					<td>
+					  <input type="radio" name="estatus" value="employed" />Employed
+					  <input type="radio" name="estatus" value="Unemployed" />Unemployed
+					</td>
+				  </tr>
+				<tr>
+					<td>
+						Please press Submit 
+					</td>
+					<td><input type="submit" name="submit" value="Submit"></td>
+				</tr>
+			</table>
+		</fieldset>
+	</form>
+</body>
+</html>
